@@ -1,2 +1,2 @@
-# ag-webpack
-Angular Webpack setup
+# Angular Webpack setup
+simple project to try basic webpack setup w/ angular
